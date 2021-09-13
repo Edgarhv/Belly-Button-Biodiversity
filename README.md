@@ -11,3 +11,7 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 ## Summary
 
 I created an HTML HTML/Javascript project that has a customized dashboard with a bar, bubble, and gauge chart for different types of bacteria. The dashboard is able to be filtered by the different bacteria IDs in a drop-down menu. Finally, I changed the color of the square of the title.
+
+
+
+![img](https://github.com/Edgarhv/Belly-Button-Biodiversity/blob/6af5450c8d9456567567c585071d0e03b39fda2c/web-html.png)
